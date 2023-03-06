@@ -1,0 +1,5 @@
+C:\projetos\dotNet\AtivosApi\AtivosApi.Application\obj\Debug\net6.0\AtivosApi.Application.csproj.AssemblyReference.cache
+C:\projetos\dotNet\AtivosApi\AtivosApi.Application\obj\Debug\net6.0\AtivosApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\dotNet\AtivosApi\AtivosApi.Application\obj\Debug\net6.0\AtivosApi.Application.AssemblyInfoInputs.cache
+C:\projetos\dotNet\AtivosApi\AtivosApi.Application\obj\Debug\net6.0\AtivosApi.Application.AssemblyInfo.cs
+C:\projetos\dotNet\AtivosApi\AtivosApi.Application\obj\Debug\net6.0\AtivosApi.Application.csproj.CoreCompileInputs.cache
